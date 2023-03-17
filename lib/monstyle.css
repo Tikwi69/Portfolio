@@ -7,8 +7,8 @@ h2 {
     font-size: 2.5em;
 }
 .logo {
-    width: 55%;
-    height: 55%;
+    width:10%;
+    height: 10%;
 }
 .separateur {
     display: flex;
@@ -88,23 +88,6 @@ h5 {
     margin-bottom: 10%;
     font-family: "MaPolice", Arial, serif;
     font-size: 2em;
-}
-.imageflottante {
-    margin-left: 5%;
-    margin-right: 5%;
-    float: left;
-    border-image: url(../images/Bordures/bordure4.webp) 20%;
-    border-width: 80px;
-    border-style: solid;
-    width: 45%;
-}
-.titreQui {
-    border-image: url(../images/Bordures/bordure1.png) 20%;
-    border-width: 80px;
-    border-style: solid;
-    width: 45%;
-    text-align: center;
-    margin: auto;
 }
 .texte2 {
     font-family: "MaPolice", Arial, serif;
